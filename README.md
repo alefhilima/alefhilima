@@ -1,10 +1,10 @@
 # Hi, I'm Alefhi! 👋🏻
 
 ## About me 👦🏻
-My name is Alefhi Lima, I study programming with the intention of becoming a frontend developer.
+My name is Alefhi Lima, I am a front end developer, always looking for new challenges to improve my knowledge.
 
 ## learning 🌱
-- in my free time I'm learning HTML, CSS and Javascript.
+- in my free time I'm always learning HTML, CSS and Javascript, React, node, git and github.
 
 ## Reach me out 👇🏻
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alefhi-lima-37b777184/)](https://www.linkedin.com/in/alefhi-lima-37b777184/)
